@@ -1,0 +1,3 @@
+ezbookkeeping
+========
+Self-hosted application.
